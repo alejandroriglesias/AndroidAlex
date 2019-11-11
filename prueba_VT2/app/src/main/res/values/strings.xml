@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">prueba_VT2</string>
+    <string name="saludo">HOLA HOLITA</string>
+    <string name="GoToPage2">Siguiente Página</string>
+    <string name="result">DALE!</string>
+    <string name="texto">REQUETEMIAU MIAU MIAU MIAU MIAU</string>
+    <string name="boton1">Boton uno</string>
+    <string name="boton2">VOLVER</string>
+</resources>
